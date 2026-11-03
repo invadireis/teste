@@ -1,0 +1,14 @@
+ANATOMICAL GEOMETRY
+BodyParts3D, The Database Center for Life Science (DBCLS), CC BY-SA 2.1 Japan.
+Z-Anatomy, The open source atlas of anatomy, CC BY-SA 4.0.
+GLB conversion: nqwrc/3d-anatomy (https://github.com/nqwrc/3d-anatomy), nervous.glb.
+Upstream distribution includes additional contributions; see ANATOMY-LICENSE.txt.
+This filtered, regrouped and simplified geometry is distributed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Changes for this educational presentation: omitted sensory organs, meninges and fluid spaces; grouped meshes for interaction; simplified surfaces; recomputed normals and recolored for rendering.
+Sources: https://www.z-anatomy.com/ ; https://lifesciencedb.jp/bp3d/ ; https://github.com/nqwrc/3d-anatomy
+
+RENDERER
+Three.js, MIT License; see THREE-LICENSE.txt.
+
+FONT FILES
+DM Sans and Manrope, SIL Open Font License; see ../fonts/ for licenses.
