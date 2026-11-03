@@ -1,0 +1,30 @@
+SISTEMA NERVOSO & DROGAS — EXPERIÊNCIA INTERATIVA
+
+Extraia todo o ZIP e abra index.html em um navegador moderno.
+Mantenha os arquivos JS, interface.css, favicon.svg e as pastas assets e fonts juntos.
+Modelo, atividades e comparação funcionam sem internet. As fontes científicas externas precisam de conexão.
+
+CINCO ATIVIDADES
+1. Anatomia: encontre encéfalo, medula e nervos no modelo.
+2. Reflexo: faça uma previsão e veja o percurso do sinal.
+3. Sinapse: leve a molécula até o receptor.
+4. Drogas: escolha uma substância, responda e compare as sinalizações.
+5. Desafio: responda às três perguntas com a turma.
+
+NAVEGAÇÃO
+Use a barra inferior, suas setas ou a rolagem.
+As respostas permanecem ao trocar de etapa. Recarregar inicia outra exploração.
+Clique em Apresentar para usar tela cheia e navegar com esquerda/direita. Esc sai.
+Como usar e Fontes e créditos explicam os controles e as referências.
+
+MODELO
+Arraste para girar. Use + e - para aproximar/afastar.
+Os enquadramentos permitem ver corpo inteiro, encéfalo ou medula.
+Sem suporte a WebGL, imagens anatômicas e pontos selecionáveis permitem continuar.
+
+CRÉDITOS
+Z-Anatomy / BodyParts3D (DBCLS); conversão GLB por nqwrc/3d-anatomy.
+Derivação: seleção, agrupamento, simplificação e recoloração.
+Geometria derivada sob CC BY-NC-SA 4.0.
+Mantenha assets/ATTRIBUTION.txt, assets/ANATOMY-LICENSE.txt e as licenças em fonts ao compartilhar.
+Os percursos e as sinapses são representações didáticas e não medições reais.
